@@ -1,6 +1,10 @@
-# Logstash Plugin
+# Logstash Filter : Snowplow Event Transformer
 
-[![Travis Build Status](https://travis-ci.com/logstash-plugins/logstash-filter-example.svg)](https://travis-ci.com/logstash-plugins/logstash-filter-example)
+## TODO
+
+- [x] Make it work
+- [ ] Make the code not bad
+
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
 
