@@ -1,5 +1,7 @@
-Elasticsearch
-Copyright 2012-2015 Elasticsearch
+Logstash Filter wrapper for Snowplow Event Transformer
+======================================================
+
+Copyright 2021 Ekstra Bladet
 
 This product includes software developed by The Apache Software
 Foundation (http://www.apache.org/).
